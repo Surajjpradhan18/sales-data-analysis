@@ -20,7 +20,7 @@ To analyze sales data and create an interactive dashboard using Excel.
 - Sales show steady growth
 
 ## 📁 File
-- Final_Sales_Analysis_Project.xlsx
+- Sales_data.xlsx
 
 ## 🚀 Conclusion
 This project demonstrates data analysis and dashboard creation skills.
